@@ -34,6 +34,7 @@ namespace Task1
             if (openFile.ShowDialog().Value)
             {
                 image.Source = new BitmapImage(new Uri(openFile.FileName));
+                Title = openFile.FileName;
             }
         }
 

@@ -12,7 +12,7 @@
             <ColumnDefinition/>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
-        <Image Source="why.jpg" />
+        <Image Source="why.jpg"/>
         <Label Content="Вы хотите закрыть приложение?" Grid.Column="1" HorizontalAlignment="Left" Margin="63,30,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="243"/>
         <Button x:Name="yes" Content="Да" Grid.Column="1" HorizontalAlignment="Center" Margin="0,120,0,0" VerticalAlignment="Top" Width="50" Background="Green" Click="Yes_Click"/>
         <Button x:Name="no" Content="Нет" Grid.Column="2" HorizontalAlignment="Center" Margin="0,120,0,0" VerticalAlignment="Top" Width="50" Background="Red" Click="No_Click"/>

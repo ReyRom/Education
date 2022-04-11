@@ -17,7 +17,7 @@
             <RowDefinition/>
             <RowDefinition/>
         </Grid.RowDefinitions>
-        <TextBox x:Name="textBox" Grid.ColumnSpan="3" TextWrapping="Wrap"  Grid.RowSpan="2"/>
+        <TextBox x:Name="textBox" Grid.ColumnSpan="3" TextWrapping="Wrap"  Grid.RowSpan="2" AcceptsReturn="True"/>
         <Button x:Name="saveButton" Content="Сохранить" Grid.Row="2" Grid.ColumnSpan="3" Click="SaveButton_Click"/>
 
     </Grid>
