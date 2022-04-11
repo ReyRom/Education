@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Temp\\pcs91-93\\mdk0102\\LabWork6\\Task1\\Task1.csproj": {}
+    "C:\\Temp\\pcs91-93\\edu\\mdk0102\\LabWork6\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "C:\\Temp\\pcs91-93\\mdk0102\\LabWork6\\Task1\\Task1.csproj": {
+    "C:\\Temp\\pcs91-93\\edu\\mdk0102\\LabWork6\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Temp\\pcs91-93\\mdk0102\\LabWork6\\Task1\\Task1.csproj",
+        "projectUniqueName": "C:\\Temp\\pcs91-93\\edu\\mdk0102\\LabWork6\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "C:\\Temp\\pcs91-93\\mdk0102\\LabWork6\\Task1\\Task1.csproj",
+        "projectPath": "C:\\Temp\\pcs91-93\\edu\\mdk0102\\LabWork6\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Temp\\pcs91-93\\mdk0102\\LabWork6\\Task1\\obj\\",
+        "outputPath": "C:\\Temp\\pcs91-93\\edu\\mdk0102\\LabWork6\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
