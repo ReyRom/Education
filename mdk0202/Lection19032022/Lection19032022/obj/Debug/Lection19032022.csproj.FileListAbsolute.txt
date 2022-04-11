@@ -1,0 +1,10 @@
+C:\Temp\pcs91-93\mdk0202\Lection19032022\Lection19032022\bin\Debug\Lection19032022.exe.config
+C:\Temp\pcs91-93\mdk0202\Lection19032022\Lection19032022\bin\Debug\Lection19032022.exe
+C:\Temp\pcs91-93\mdk0202\Lection19032022\Lection19032022\bin\Debug\Lection19032022.pdb
+C:\Temp\pcs91-93\mdk0202\Lection19032022\Lection19032022\obj\Debug\Lection19032022.csproj.AssemblyReference.cache
+C:\Temp\pcs91-93\mdk0202\Lection19032022\Lection19032022\obj\Debug\Lection19032022.Form1.resources
+C:\Temp\pcs91-93\mdk0202\Lection19032022\Lection19032022\obj\Debug\Lection19032022.Properties.Resources.resources
+C:\Temp\pcs91-93\mdk0202\Lection19032022\Lection19032022\obj\Debug\Lection19032022.csproj.GenerateResource.cache
+C:\Temp\pcs91-93\mdk0202\Lection19032022\Lection19032022\obj\Debug\Lection19032022.csproj.CoreCompileInputs.cache
+C:\Temp\pcs91-93\mdk0202\Lection19032022\Lection19032022\obj\Debug\Lection19032022.exe
+C:\Temp\pcs91-93\mdk0202\Lection19032022\Lection19032022\obj\Debug\Lection19032022.pdb

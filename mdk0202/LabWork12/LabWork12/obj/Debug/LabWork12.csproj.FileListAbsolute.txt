@@ -1,0 +1,12 @@
+C:\Temp\pcs91-93\mdk0202\LabWork12\LabWork12\bin\Debug\LabWork12.exe.config
+C:\Temp\pcs91-93\mdk0202\LabWork12\LabWork12\bin\Debug\LabWork12.exe
+C:\Temp\pcs91-93\mdk0202\LabWork12\LabWork12\bin\Debug\LabWork12.pdb
+C:\Temp\pcs91-93\mdk0202\LabWork12\LabWork12\obj\Debug\LabWork12.csproj.AssemblyReference.cache
+C:\Temp\pcs91-93\mdk0202\LabWork12\LabWork12\obj\Debug\LabWork12.MainForm.resources
+C:\Temp\pcs91-93\mdk0202\LabWork12\LabWork12\obj\Debug\LabWork12.Properties.Resources.resources
+C:\Temp\pcs91-93\mdk0202\LabWork12\LabWork12\obj\Debug\LabWork12.UsersDetailsForm.resources
+C:\Temp\pcs91-93\mdk0202\LabWork12\LabWork12\obj\Debug\LabWork12.UsersTableForm.resources
+C:\Temp\pcs91-93\mdk0202\LabWork12\LabWork12\obj\Debug\LabWork12.csproj.GenerateResource.cache
+C:\Temp\pcs91-93\mdk0202\LabWork12\LabWork12\obj\Debug\LabWork12.csproj.CoreCompileInputs.cache
+C:\Temp\pcs91-93\mdk0202\LabWork12\LabWork12\obj\Debug\LabWork12.exe
+C:\Temp\pcs91-93\mdk0202\LabWork12\LabWork12\obj\Debug\LabWork12.pdb

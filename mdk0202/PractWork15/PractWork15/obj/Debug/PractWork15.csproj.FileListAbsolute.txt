@@ -1,0 +1,16 @@
+C:\Temp\pcs91-93\mdk0202\PractWork15\PractWork15\bin\Debug\PractWork15.exe.config
+C:\Temp\pcs91-93\mdk0202\PractWork15\PractWork15\bin\Debug\PractWork15.exe
+C:\Temp\pcs91-93\mdk0202\PractWork15\PractWork15\bin\Debug\PractWork15.pdb
+C:\Temp\pcs91-93\mdk0202\PractWork15\PractWork15\bin\Debug\EntityFramework.dll
+C:\Temp\pcs91-93\mdk0202\PractWork15\PractWork15\bin\Debug\EntityFramework.SqlServer.dll
+C:\Temp\pcs91-93\mdk0202\PractWork15\PractWork15\bin\Debug\EntityFramework.xml
+C:\Temp\pcs91-93\mdk0202\PractWork15\PractWork15\bin\Debug\EntityFramework.SqlServer.xml
+C:\Temp\pcs91-93\mdk0202\PractWork15\PractWork15\bin\Debug\ru\EntityFramework.resources.dll
+C:\Temp\pcs91-93\mdk0202\PractWork15\PractWork15\obj\Debug\PractWork15.csproj.AssemblyReference.cache
+C:\Temp\pcs91-93\mdk0202\PractWork15\PractWork15\obj\Debug\PractWork15.ProductsForm.resources
+C:\Temp\pcs91-93\mdk0202\PractWork15\PractWork15\obj\Debug\PractWork15.Properties.Resources.resources
+C:\Temp\pcs91-93\mdk0202\PractWork15\PractWork15\obj\Debug\PractWork15.csproj.GenerateResource.cache
+C:\Temp\pcs91-93\mdk0202\PractWork15\PractWork15\obj\Debug\PractWork15.csproj.CoreCompileInputs.cache
+C:\Temp\pcs91-93\mdk0202\PractWork15\PractWork15\obj\Debug\PractWork15.csproj.CopyComplete
+C:\Temp\pcs91-93\mdk0202\PractWork15\PractWork15\obj\Debug\PractWork15.exe
+C:\Temp\pcs91-93\mdk0202\PractWork15\PractWork15\obj\Debug\PractWork15.pdb

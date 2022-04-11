@@ -1,0 +1,17 @@
+C:\Temp\pcs91-93\mdk0202\PractWork22\PractWork22\bin\Debug\PractWork22.exe.config
+C:\Temp\pcs91-93\mdk0202\PractWork22\PractWork22\bin\Debug\PractWork22.exe
+C:\Temp\pcs91-93\mdk0202\PractWork22\PractWork22\bin\Debug\PractWork22.pdb
+C:\Temp\pcs91-93\mdk0202\PractWork22\PractWork22\bin\Debug\EntityFramework.dll
+C:\Temp\pcs91-93\mdk0202\PractWork22\PractWork22\bin\Debug\EntityFramework.SqlServer.dll
+C:\Temp\pcs91-93\mdk0202\PractWork22\PractWork22\bin\Debug\EntityFramework.xml
+C:\Temp\pcs91-93\mdk0202\PractWork22\PractWork22\bin\Debug\EntityFramework.SqlServer.xml
+C:\Temp\pcs91-93\mdk0202\PractWork22\PractWork22\bin\Debug\ru\EntityFramework.resources.dll
+C:\Temp\pcs91-93\mdk0202\PractWork22\PractWork22\obj\Debug\PractWork22.MainForm.resources
+C:\Temp\pcs91-93\mdk0202\PractWork22\PractWork22\obj\Debug\PractWork22.Properties.Resources.resources
+C:\Temp\pcs91-93\mdk0202\PractWork22\PractWork22\obj\Debug\PractWork22.csproj.GenerateResource.cache
+C:\Temp\pcs91-93\mdk0202\PractWork22\PractWork22\obj\Debug\PractWork22.csproj.CoreCompileInputs.cache
+C:\Temp\pcs91-93\mdk0202\PractWork22\PractWork22\obj\Debug\PractWork22.csproj.CopyComplete
+C:\Temp\pcs91-93\mdk0202\PractWork22\PractWork22\obj\Debug\PractWork22.exe
+C:\Temp\pcs91-93\mdk0202\PractWork22\PractWork22\obj\Debug\PractWork22.pdb
+C:\Temp\pcs91-93\mdk0202\PractWork22\PractWork22\obj\Debug\PractWork22.csproj.AssemblyReference.cache
+C:\Temp\pcs91-93\mdk0202\PractWork22\PractWork22\obj\Debug\PractWork22.csproj.ResolveComReference.cache
