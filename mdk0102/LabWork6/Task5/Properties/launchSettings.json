@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Task5": {
+      "commandName": "Project",
+      "commandLineArgs": "-console"
+    }
+  }
+}

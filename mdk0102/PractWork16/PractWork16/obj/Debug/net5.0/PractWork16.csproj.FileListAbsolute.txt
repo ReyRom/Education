@@ -1,0 +1,16 @@
+C:\Temp\pcs91-93\mdk0102\PractWork16\PractWork16\obj\Debug\net5.0\PractWork16.csproj.AssemblyReference.cache
+C:\Temp\pcs91-93\mdk0102\PractWork16\PractWork16\obj\Debug\net5.0\PractWork16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\pcs91-93\mdk0102\PractWork16\PractWork16\obj\Debug\net5.0\PractWork16.AssemblyInfoInputs.cache
+C:\Temp\pcs91-93\mdk0102\PractWork16\PractWork16\obj\Debug\net5.0\PractWork16.AssemblyInfo.cs
+C:\Temp\pcs91-93\mdk0102\PractWork16\PractWork16\obj\Debug\net5.0\PractWork16.csproj.CoreCompileInputs.cache
+C:\Temp\pcs91-93\mdk0102\PractWork16\PractWork16\bin\Debug\net5.0\PractWork16.exe
+C:\Temp\pcs91-93\mdk0102\PractWork16\PractWork16\bin\Debug\net5.0\PractWork16.deps.json
+C:\Temp\pcs91-93\mdk0102\PractWork16\PractWork16\bin\Debug\net5.0\PractWork16.runtimeconfig.json
+C:\Temp\pcs91-93\mdk0102\PractWork16\PractWork16\bin\Debug\net5.0\PractWork16.runtimeconfig.dev.json
+C:\Temp\pcs91-93\mdk0102\PractWork16\PractWork16\bin\Debug\net5.0\PractWork16.dll
+C:\Temp\pcs91-93\mdk0102\PractWork16\PractWork16\bin\Debug\net5.0\ref\PractWork16.dll
+C:\Temp\pcs91-93\mdk0102\PractWork16\PractWork16\bin\Debug\net5.0\PractWork16.pdb
+C:\Temp\pcs91-93\mdk0102\PractWork16\PractWork16\obj\Debug\net5.0\PractWork16.dll
+C:\Temp\pcs91-93\mdk0102\PractWork16\PractWork16\obj\Debug\net5.0\ref\PractWork16.dll
+C:\Temp\pcs91-93\mdk0102\PractWork16\PractWork16\obj\Debug\net5.0\PractWork16.pdb
+C:\Temp\pcs91-93\mdk0102\PractWork16\PractWork16\obj\Debug\net5.0\PractWork16.genruntimeconfig.cache

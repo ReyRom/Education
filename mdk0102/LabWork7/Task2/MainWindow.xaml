@@ -1,0 +1,16 @@
+﻿<Window x:Class="Task2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task2"
+        mc:Ignorable="d"
+        Title="Кнопочки" Height="450" Width="801">
+    <StackPanel VerticalAlignment="Top" HorizontalAlignment="Center" Orientation="Vertical">
+        <Button Content="Производители" MinWidth="200"/>
+        <Button Content="Товары" MinWidth="200"/>
+        <Button Content="Заказчики" MinWidth="200"/>
+        <Button Content="Заказы" MinWidth="200"/>
+
+    </StackPanel>
+</Window>
