@@ -30,10 +30,14 @@ namespace LabWork14
 
         private void MainFrame_ContentRendered(object sender, EventArgs e)
         {
-            if (MainFrame.CanGoBack)
+            if (MainFrame.CanGoBack) 
+            {
                 BackButton.Visibility = Visibility.Visible;
+            }
             else
+            {
                 BackButton.Visibility = Visibility.Hidden;
+            }
         }
 
         private void BackButton_Click(object sender, RoutedEventArgs e)
