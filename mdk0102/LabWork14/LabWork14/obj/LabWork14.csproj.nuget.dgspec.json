@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Temp\\pcs91-93\\edu\\LabWork14\\LabWork14\\LabWork14.csproj": {}
+    "C:\\Temp\\pcs91-93\\edu\\mdk0102\\LabWork14\\LabWork14\\LabWork14.csproj": {}
   },
   "projects": {
-    "C:\\Temp\\pcs91-93\\edu\\LabWork14\\LabWork14\\LabWork14.csproj": {
+    "C:\\Temp\\pcs91-93\\edu\\mdk0102\\LabWork14\\LabWork14\\LabWork14.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Temp\\pcs91-93\\edu\\LabWork14\\LabWork14\\LabWork14.csproj",
+        "projectUniqueName": "C:\\Temp\\pcs91-93\\edu\\mdk0102\\LabWork14\\LabWork14\\LabWork14.csproj",
         "projectName": "LabWork14",
-        "projectPath": "C:\\Temp\\pcs91-93\\edu\\LabWork14\\LabWork14\\LabWork14.csproj",
+        "projectPath": "C:\\Temp\\pcs91-93\\edu\\mdk0102\\LabWork14\\LabWork14\\LabWork14.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Temp\\pcs91-93\\edu\\LabWork14\\LabWork14\\obj\\",
+        "outputPath": "C:\\Temp\\pcs91-93\\edu\\mdk0102\\LabWork14\\LabWork14\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
