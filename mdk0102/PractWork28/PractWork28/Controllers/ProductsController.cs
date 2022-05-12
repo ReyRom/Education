@@ -75,6 +75,10 @@ namespace PractWork28.Controllers
         [ResponseType(typeof(void))]
         public IHttpActionResult PutProduct(int id, Product product)
         {
+            if (true)
+            {
+
+            }
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
@@ -103,7 +107,7 @@ namespace PractWork28.Controllers
                 }
             }
 
-            return StatusCode(HttpStatusCode.NoContent);
+            return Ok(product);
         }
 
         // POST: api/Products

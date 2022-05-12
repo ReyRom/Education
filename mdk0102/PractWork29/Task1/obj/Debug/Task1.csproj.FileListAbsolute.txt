@@ -1,0 +1,12 @@
+C:\Temp\pcs91-93\edu\mdk0102\PractWork29\Task1\bin\Debug\Task1.exe.config
+C:\Temp\pcs91-93\edu\mdk0102\PractWork29\Task1\bin\Debug\Task1.exe
+C:\Temp\pcs91-93\edu\mdk0102\PractWork29\Task1\bin\Debug\Task1.pdb
+C:\Temp\pcs91-93\edu\mdk0102\PractWork29\Task1\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\pcs91-93\edu\mdk0102\PractWork29\Task1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Temp\pcs91-93\edu\mdk0102\PractWork29\Task1\bin\Debug\Newtonsoft.Json.xml
+C:\Temp\pcs91-93\edu\mdk0102\PractWork29\Task1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Temp\pcs91-93\edu\mdk0102\PractWork29\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Temp\pcs91-93\edu\mdk0102\PractWork29\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Temp\pcs91-93\edu\mdk0102\PractWork29\Task1\obj\Debug\Task1.csproj.CopyComplete
+C:\Temp\pcs91-93\edu\mdk0102\PractWork29\Task1\obj\Debug\Task1.exe
+C:\Temp\pcs91-93\edu\mdk0102\PractWork29\Task1\obj\Debug\Task1.pdb
