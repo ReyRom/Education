@@ -1,0 +1,12 @@
+C:\Temp\pcs91-93\edu\mdk0102\PractWork30\PractWork30\bin\Debug\PractWork30.exe.config
+C:\Temp\pcs91-93\edu\mdk0102\PractWork30\PractWork30\bin\Debug\PractWork30.exe
+C:\Temp\pcs91-93\edu\mdk0102\PractWork30\PractWork30\bin\Debug\PractWork30.pdb
+C:\Temp\pcs91-93\edu\mdk0102\PractWork30\PractWork30\obj\Debug\PractWork30.csproj.AssemblyReference.cache
+C:\Temp\pcs91-93\edu\mdk0102\PractWork30\PractWork30\obj\Debug\PractWork30.AuthForm.resources
+C:\Temp\pcs91-93\edu\mdk0102\PractWork30\PractWork30\obj\Debug\PractWork30.MainForm.resources
+C:\Temp\pcs91-93\edu\mdk0102\PractWork30\PractWork30\obj\Debug\PractWork30.Properties.Resources.resources
+C:\Temp\pcs91-93\edu\mdk0102\PractWork30\PractWork30\obj\Debug\PractWork30.csproj.GenerateResource.cache
+C:\Temp\pcs91-93\edu\mdk0102\PractWork30\PractWork30\obj\Debug\PractWork30.csproj.CoreCompileInputs.cache
+C:\Temp\pcs91-93\edu\mdk0102\PractWork30\PractWork30\obj\Debug\PractWork30.exe
+C:\Temp\pcs91-93\edu\mdk0102\PractWork30\PractWork30\obj\Debug\PractWork30.pdb
+C:\Temp\pcs91-93\edu\mdk0102\PractWork30\PractWork30\obj\Debug\PractWork30.SettingsForm.resources
