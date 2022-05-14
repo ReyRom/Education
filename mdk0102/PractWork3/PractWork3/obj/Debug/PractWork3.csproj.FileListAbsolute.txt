@@ -1,0 +1,14 @@
+C:\Users\j\Source\Repos\PractWork3\PractWork3\bin\Debug\PractWork3.exe.config
+C:\Users\j\Source\Repos\PractWork3\PractWork3\bin\Debug\PractWork3.exe
+C:\Users\j\Source\Repos\PractWork3\PractWork3\bin\Debug\PractWork3.pdb
+C:\Users\j\Source\Repos\PractWork3\PractWork3\obj\Debug\PractWork3.csprojAssemblyReference.cache
+C:\Users\j\Source\Repos\PractWork3\PractWork3\obj\Debug\PractWork3.csproj.CoreCompileInputs.cache
+C:\Users\j\Source\Repos\PractWork3\PractWork3\obj\Debug\PractWork3.exe
+C:\Users\j\Source\Repos\PractWork3\PractWork3\obj\Debug\PractWork3.pdb
+C:\Temp\pcs91-93\mdk0102\PractWork3\PractWork3\bin\Debug\PractWork3.exe.config
+C:\Temp\pcs91-93\mdk0102\PractWork3\PractWork3\bin\Debug\PractWork3.exe
+C:\Temp\pcs91-93\mdk0102\PractWork3\PractWork3\bin\Debug\PractWork3.pdb
+C:\Temp\pcs91-93\mdk0102\PractWork3\PractWork3\obj\Debug\PractWork3.csproj.CoreCompileInputs.cache
+C:\Temp\pcs91-93\mdk0102\PractWork3\PractWork3\obj\Debug\PractWork3.exe
+C:\Temp\pcs91-93\mdk0102\PractWork3\PractWork3\obj\Debug\PractWork3.pdb
+C:\Temp\pcs91-93\mdk0102\PractWork3\PractWork3\obj\Debug\PractWork3.csproj.AssemblyReference.cache

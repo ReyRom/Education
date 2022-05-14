@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LabWorkLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:LabWorkLibrary.Maths">
+            <summary>
+            Математические функции и константы
+            </summary>
+        </member>
+        <member name="F:LabWorkLibrary.Maths.PI">
+            <summary>
+            Константа пи
+            </summary>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.Add(System.Double,System.Double)">
+            <summary>
+            Сложение двух чисел
+            </summary>
+            <param name="a">Первое слагаемое</param>
+            <param name="b">Второе слагаемое</param>
+            <returns>Сумма</returns>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.Sub(System.Double,System.Double)">
+            <summary>
+            Вычитание двух чисел
+            </summary>
+            <param name="a">Уменьшаемое</param>
+            <param name="b">Вычитаемое</param>
+            <returns>Разность</returns>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.Mul(System.Double,System.Double)">
+            <summary>
+            Умножение двух чисел
+            </summary>
+            <param name="a">Первый множитель</param>
+            <param name="b">Второй множитель</param>
+            <returns>Произведение</returns>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.Div(System.Double,System.Double)">
+            <summary>
+            Деление двух чисел
+            </summary>
+            <param name="a">Делимое</param>
+            <param name="b">Делитель</param>
+            <returns>Частное</returns>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.Square(System.Double,System.Double)">
+            <summary>
+            Вычисление площади прямоугольника
+            </summary>
+            <param name="a">Длина</param>
+            <param name="b">Ширина</param>
+            <returns>Площадь</returns>
+        </member>
+        <member name="T:LabWorkLibrary.UserData.Role">
+            <summary>
+            Перечисление для работы с ролями пользователей
+            </summary>
+        </member>
+        <member name="F:LabWorkLibrary.UserData.Role.Customer">
+            <summary>
+            Покупатель
+            </summary>
+        </member>
+        <member name="F:LabWorkLibrary.UserData.Role.Manager">
+            <summary>
+            Менеджер
+            </summary>
+        </member>
+        <member name="F:LabWorkLibrary.UserData.Role.Administrator">
+            <summary>
+            Администратор
+            </summary>
+        </member>
+        <member name="T:LabWorkLibrary.UserData.User">
+            <summary>
+            Пользователь
+            </summary>
+        </member>
+        <member name="P:LabWorkLibrary.UserData.User.Login">
+            <summary>
+            Свойство для досутпа к полю логин
+            </summary>
+        </member>
+        <member name="M:LabWorkLibrary.UserData.User.ChangePassword(System.String)">
+            <summary>
+            Смена пароля
+            </summary>
+            <param name="password">Новый пароль</param>
+            <returns>Удалось ли изменить пароль</returns>
+        </member>
+        <member name="M:LabWorkLibrary.UserData.User.ChangePriveleged(LabWorkLibrary.UserData.Role)">
+            <summary>
+            Изменение уровня привелегий
+            </summary>
+            <param name="role">Роль пользователя</param>
+        </member>
+    </members>
+</doc>

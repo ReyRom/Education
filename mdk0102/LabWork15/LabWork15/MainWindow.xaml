@@ -1,0 +1,16 @@
+﻿<Window x:Class="LabWork15.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabWork15"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <Button Content="Подписка" Click="SubscribeButton_Click"/>
+            <Button Content="Авторизация" Click="AuthorizationButton_Click"/>
+            <Button Content="Авторизация2" Click="AuthButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

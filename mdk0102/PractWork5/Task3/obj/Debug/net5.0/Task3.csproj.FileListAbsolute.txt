@@ -1,0 +1,16 @@
+C:\Temp\pcs91-93\mdk0102\PractWork5\Task3\bin\Debug\net5.0\Task3.exe
+C:\Temp\pcs91-93\mdk0102\PractWork5\Task3\bin\Debug\net5.0\Task3.deps.json
+C:\Temp\pcs91-93\mdk0102\PractWork5\Task3\bin\Debug\net5.0\Task3.runtimeconfig.json
+C:\Temp\pcs91-93\mdk0102\PractWork5\Task3\bin\Debug\net5.0\Task3.runtimeconfig.dev.json
+C:\Temp\pcs91-93\mdk0102\PractWork5\Task3\bin\Debug\net5.0\Task3.dll
+C:\Temp\pcs91-93\mdk0102\PractWork5\Task3\bin\Debug\net5.0\ref\Task3.dll
+C:\Temp\pcs91-93\mdk0102\PractWork5\Task3\bin\Debug\net5.0\Task3.pdb
+C:\Temp\pcs91-93\mdk0102\PractWork5\Task3\obj\Debug\net5.0\Task3.csproj.AssemblyReference.cache
+C:\Temp\pcs91-93\mdk0102\PractWork5\Task3\obj\Debug\net5.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\pcs91-93\mdk0102\PractWork5\Task3\obj\Debug\net5.0\Task3.AssemblyInfoInputs.cache
+C:\Temp\pcs91-93\mdk0102\PractWork5\Task3\obj\Debug\net5.0\Task3.AssemblyInfo.cs
+C:\Temp\pcs91-93\mdk0102\PractWork5\Task3\obj\Debug\net5.0\Task3.csproj.CoreCompileInputs.cache
+C:\Temp\pcs91-93\mdk0102\PractWork5\Task3\obj\Debug\net5.0\Task3.dll
+C:\Temp\pcs91-93\mdk0102\PractWork5\Task3\obj\Debug\net5.0\ref\Task3.dll
+C:\Temp\pcs91-93\mdk0102\PractWork5\Task3\obj\Debug\net5.0\Task3.pdb
+C:\Temp\pcs91-93\mdk0102\PractWork5\Task3\obj\Debug\net5.0\Task3.genruntimeconfig.cache
