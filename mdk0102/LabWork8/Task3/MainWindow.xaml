@@ -1,0 +1,18 @@
+﻿<Window x:Class="Task3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Slider x:Name="PercentSlider" HorizontalAlignment="Left" Margin="73,79,0,0" VerticalAlignment="Top" Width="695" Maximum="100" ValueChanged="Slider_ValueChanged" SmallChange="1"/>
+        <Slider x:Name="SumSlider" HorizontalAlignment="Left" Margin="73,25,0,0" VerticalAlignment="Top" Width="695" Maximum="1000000" ValueChanged="Slider_ValueChanged" SmallChange="1"/>
+        <Label Content="Сумма" HorizontalAlignment="Left" Margin="16,21,0,0" VerticalAlignment="Top"/>
+        <Label Content="Процент" HorizontalAlignment="Left" Margin="10,75,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.318,0.281"/>
+        <Label x:Name="ResultLabel" Content="Результат: " HorizontalAlignment="Left" Margin="16,121,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="ResultTextBlock" HorizontalAlignment="Left" Margin="26,162,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="249" Width="742"/>
+
+    </Grid>
+</Window>

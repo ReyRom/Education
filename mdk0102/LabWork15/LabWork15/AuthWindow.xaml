@@ -1,0 +1,45 @@
+﻿<Window x:Class="LabWork15.AuthWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabWork15"
+        mc:Ignorable="d"
+        Title="AuthWindow" Height="450" Width="800">
+    <Window.Resources>
+        <Style TargetType="Label">
+            <Setter Property="Label.Foreground" Value="BlueViolet"/>
+            <Setter Property="Label.FontFamily" Value="Comic Sans MS"/>
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="TextBox.MaxLength" Value="30"/>
+            <Setter Property="TextBox.FontSize" Value="20"/>
+            <Setter Property="TextBox.FontFamily" Value="Comic Sans MS"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Button.Height" Value="50"/>
+            <Setter Property="Button.VerticalAlignment" Value="Top"/>
+            <Setter Property="Button.Background" Value="Aqua"/>
+            <Setter Property="Button.Margin" Value="0 5 5 5"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Логин"/>
+        <Label Content="Пароль" Grid.Row="1"/>
+        <TextBox Grid.Column="1"/>
+        <StackPanel Grid.Column="1" Grid.Row="2" Orientation="Horizontal">
+            <Button Content="ОК"/>
+            <Button Content="Отмена"/>
+        </StackPanel>
+        <TextBox Grid.Column="1" Grid.Row="1"/>
+    </Grid>
+</Window>

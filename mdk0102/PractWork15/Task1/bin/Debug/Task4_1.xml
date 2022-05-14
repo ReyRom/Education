@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <personInfo Age="79">
+      <FullName>Joe</FullName>
+    </personInfo>
+    <Id>1</Id>
+    <Login>asd</Login>
+    <Comments>
+      <string>asd</string>
+      <string>zxc</string>
+      <string>qwe</string>
+    </Comments>
+  </User>
+  <User>
+    <personInfo Age="60">
+      <FullName>Obeme</FullName>
+    </personInfo>
+    <Id>2</Id>
+    <Login>fgh</Login>
+    <Comments>
+      <string>asd</string>
+      <string>zxc</string>
+      <string>qwe</string>
+    </Comments>
+  </User>
+  <User>
+    <personInfo Age="75">
+      <FullName>Donald</FullName>
+    </personInfo>
+    <Id>3</Id>
+    <Login>jkl</Login>
+    <Comments>
+      <string>asd</string>
+      <string>zxc</string>
+      <string>qwe</string>
+    </Comments>
+  </User>
+</ArrayOfUser>

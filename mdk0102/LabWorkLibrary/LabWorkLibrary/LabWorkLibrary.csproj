@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\Temp\pcs91-93\mdk0102\LabWorkLibrary\LabWorkLibrary\LabWorkLibrary.xml</DocumentationFile>
+  </PropertyGroup>
+
+</Project>

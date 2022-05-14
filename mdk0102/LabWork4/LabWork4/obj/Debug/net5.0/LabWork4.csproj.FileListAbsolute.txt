@@ -1,0 +1,16 @@
+C:\Temp\pcs91-93\mdk0102\LabWork4\LabWork4\bin\Debug\net5.0\LabWork4.exe
+C:\Temp\pcs91-93\mdk0102\LabWork4\LabWork4\bin\Debug\net5.0\LabWork4.deps.json
+C:\Temp\pcs91-93\mdk0102\LabWork4\LabWork4\bin\Debug\net5.0\LabWork4.runtimeconfig.json
+C:\Temp\pcs91-93\mdk0102\LabWork4\LabWork4\bin\Debug\net5.0\LabWork4.runtimeconfig.dev.json
+C:\Temp\pcs91-93\mdk0102\LabWork4\LabWork4\bin\Debug\net5.0\LabWork4.dll
+C:\Temp\pcs91-93\mdk0102\LabWork4\LabWork4\bin\Debug\net5.0\ref\LabWork4.dll
+C:\Temp\pcs91-93\mdk0102\LabWork4\LabWork4\bin\Debug\net5.0\LabWork4.pdb
+C:\Temp\pcs91-93\mdk0102\LabWork4\LabWork4\obj\Debug\net5.0\LabWork4.csproj.AssemblyReference.cache
+C:\Temp\pcs91-93\mdk0102\LabWork4\LabWork4\obj\Debug\net5.0\LabWork4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\pcs91-93\mdk0102\LabWork4\LabWork4\obj\Debug\net5.0\LabWork4.AssemblyInfoInputs.cache
+C:\Temp\pcs91-93\mdk0102\LabWork4\LabWork4\obj\Debug\net5.0\LabWork4.AssemblyInfo.cs
+C:\Temp\pcs91-93\mdk0102\LabWork4\LabWork4\obj\Debug\net5.0\LabWork4.csproj.CoreCompileInputs.cache
+C:\Temp\pcs91-93\mdk0102\LabWork4\LabWork4\obj\Debug\net5.0\LabWork4.dll
+C:\Temp\pcs91-93\mdk0102\LabWork4\LabWork4\obj\Debug\net5.0\ref\LabWork4.dll
+C:\Temp\pcs91-93\mdk0102\LabWork4\LabWork4\obj\Debug\net5.0\LabWork4.pdb
+C:\Temp\pcs91-93\mdk0102\LabWork4\LabWork4\obj\Debug\net5.0\LabWork4.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Temp\pcs91-93\mdk0102\PractWork18\Task3\bin\Debug\Task3.exe.config
+C:\Temp\pcs91-93\mdk0102\PractWork18\Task3\bin\Debug\Task3.exe
+C:\Temp\pcs91-93\mdk0102\PractWork18\Task3\bin\Debug\Task3.pdb
+C:\Temp\pcs91-93\mdk0102\PractWork18\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Temp\pcs91-93\mdk0102\PractWork18\Task3\obj\Debug\Task3.exe
+C:\Temp\pcs91-93\mdk0102\PractWork18\Task3\obj\Debug\Task3.pdb
+C:\Temp\pcs91-93\mdk0102\PractWork18\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache

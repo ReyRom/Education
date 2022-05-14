@@ -1,0 +1,12 @@
+C:\Temp\pcs91-93\edu\mdk0102\PractWork30\Task4\bin\Debug\Task4.exe.config
+C:\Temp\pcs91-93\edu\mdk0102\PractWork30\Task4\bin\Debug\Task4.exe
+C:\Temp\pcs91-93\edu\mdk0102\PractWork30\Task4\bin\Debug\Task4.pdb
+C:\Temp\pcs91-93\edu\mdk0102\PractWork30\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+C:\Temp\pcs91-93\edu\mdk0102\PractWork30\Task4\obj\Debug\Task4.AuthForm.resources
+C:\Temp\pcs91-93\edu\mdk0102\PractWork30\Task4\obj\Debug\Task4.MainForm.resources
+C:\Temp\pcs91-93\edu\mdk0102\PractWork30\Task4\obj\Debug\Task4.Properties.Resources.resources
+C:\Temp\pcs91-93\edu\mdk0102\PractWork30\Task4\obj\Debug\Task4.SettingsForm.resources
+C:\Temp\pcs91-93\edu\mdk0102\PractWork30\Task4\obj\Debug\Task4.csproj.GenerateResource.cache
+C:\Temp\pcs91-93\edu\mdk0102\PractWork30\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Temp\pcs91-93\edu\mdk0102\PractWork30\Task4\obj\Debug\Task4.exe
+C:\Temp\pcs91-93\edu\mdk0102\PractWork30\Task4\obj\Debug\Task4.pdb
