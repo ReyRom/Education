@@ -1,0 +1,51 @@
+﻿@model IEnumerable<PractWork27.Models.Customer>
+
+@{
+    ViewBag.Title = "Покупатели";
+}
+
+<h2>Покупатели</h2>
+
+<p>
+    @Html.ActionLink("Новый покупатель", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Фамилия
+        </th>
+        <th>
+            Имя
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            Телефон
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Surname)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Phone)
+        </td>
+        <td>
+            @Html.ActionLink("Редактировать", "Edit", new { id=item.IdCustomer }) |
+            @Html.ActionLink("Подробнее", "Details", new { id=item.IdCustomer }) |
+            @Html.ActionLink("Удалить", "Delete", new { id=item.IdCustomer })
+        </td>
+    </tr>
+}
+
+</table>

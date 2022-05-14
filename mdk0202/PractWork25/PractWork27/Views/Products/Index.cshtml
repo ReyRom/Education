@@ -1,0 +1,81 @@
+﻿@model IEnumerable<PractWork27.Models.Product>
+
+@{
+    ViewBag.Title = "Товары";
+}
+
+<h2>Товары</h2>
+
+<p>
+    @Html.ActionLink("Добавить товар", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Модель
+        </th>
+        <th>
+            Цена
+        </th>
+        <th>
+            Год
+        </th>
+        <th>
+            Тип
+        </th>
+        <th>
+            Вес
+        </th>
+        <th>
+            Описание
+        </th>
+        <th>
+            Удалён
+        </th>
+        <th>
+            Количество
+        </th>
+        <th>
+            Производитель
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Model)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Year)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Type)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Weight)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.IsDeleted)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Count)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Producer.Name)
+        </td>
+        <td>
+            @Html.ActionLink("Редактировать", "Edit", new { id=item.IdProduct }) |
+            @Html.ActionLink("Подробнее", "Details", new { id=item.IdProduct }) |
+            @Html.ActionLink("Удалить", "Delete", new { id=item.IdProduct })
+        </td>
+    </tr>
+}
+
+</table>

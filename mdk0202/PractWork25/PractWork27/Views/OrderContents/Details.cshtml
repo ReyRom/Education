@@ -1,0 +1,42 @@
+﻿@model PractWork27.Models.OrderContent
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>OrderContent</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Quantity)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Order.IdOrder)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Order.IdOrder)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Product.Model)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Product.Model)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
