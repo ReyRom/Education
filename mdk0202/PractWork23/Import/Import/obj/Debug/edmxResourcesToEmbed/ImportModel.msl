@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище ImportModelContainer" CdmEntityContainer="ImportEntities">
+    <EntitySetMapping Name="Games">
+      <EntityTypeMapping TypeName="ImportModel.Game">
+        <MappingFragment StoreEntitySet="Games">
+          <ScalarProperty Name="IdGame" ColumnName="IdGame" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="IdCategory" ColumnName="IdCategory" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Logo" ColumnName="Logo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ingredients">
+      <EntityTypeMapping TypeName="ImportModel.Ingredient">
+        <MappingFragment StoreEntitySet="Ingredients">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="IdIngredient" ColumnName="IdIngredient" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Pizzas">
+      <EntityTypeMapping TypeName="ImportModel.Pizza">
+        <MappingFragment StoreEntitySet="Pizza">
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Mass" ColumnName="Mass" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="IdPizza" ColumnName="IdPizza" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="Content" TypeName="ImportModel.Content" StoreEntitySet="Content">
+      <EndProperty Name="Pizza">
+        <ScalarProperty Name="IdPizza" ColumnName="IdPizza" />
+      </EndProperty>
+      <EndProperty Name="Ingredient">
+        <ScalarProperty Name="IdIngredient" ColumnName="IdIngredient" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>
